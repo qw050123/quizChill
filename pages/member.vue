@@ -1,3 +1,5 @@
 <template>
-    <div>介紹頁</div>
+    <div>
+        <NuxtPage />
+    </div>
 </template>
